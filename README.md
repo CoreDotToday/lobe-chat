@@ -2,6 +2,8 @@
 
 [![][image-banner]][vercel-link]
 
+# CHAT.COREDOTTODAY.COM
+
 # Lobe Chat
 
 An open-source, modern-design ChatGPT/LLMs UI/Framework.<br/>
